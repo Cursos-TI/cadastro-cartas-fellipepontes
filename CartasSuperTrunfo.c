@@ -1,11 +1,11 @@
 #include <stdio.h>
-int maind (){
+int main (){
   char estado1;
-  printf ("C");
-  scanf ("%c", &estado1);
 
-  printf ("Voce digitou: %c\n, estado1);
+printf ("C");
+scanf ("%c, Fortaleza");
 
+prinft (voce digitou: %c\n, Fortaleza);
 
 return 0;
-} 
+}
