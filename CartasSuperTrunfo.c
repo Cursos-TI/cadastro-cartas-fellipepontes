@@ -65,6 +65,9 @@ int main() {
     printf("Digite o numero de pontos turisticos: ");
     scanf("%d", &pontosturisticos2);
 
+    printf("Densidade Populacional: %.2f hab/km²\n", densidadePopulacional)
+    prinf("PIB per Capita: %.2f reais\n", pibPercapita);
+
     // EXIBICAO FINAL
     printf("\n\n=== CARTAS CADASTRADAS ===\n");
 
